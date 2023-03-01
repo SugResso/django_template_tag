@@ -31,14 +31,6 @@
 # Настройки
 
 ---
-Склонируйте репозиторий:
-
-      git clone https://github.com/SugResso/django_template_tag.git
-Перейдите в папку с проектом и активируйте виртуальное окружение:
-
-      python -m pip install --upgrade pip
-      python -m venv venv
-      source venv/Scripts/activate
 Установите необходимые зависимости проекта:
 
       pip install -r requirements.txt
