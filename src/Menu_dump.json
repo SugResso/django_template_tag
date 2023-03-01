@@ -1,0 +1,1 @@
+[{"model": "menu.menu", "pk": 1, "fields": {"title": "Магазины", "slug": "shops"}}, {"model": "menu.menu", "pk": 3, "fields": {"title": "F.A.Q.", "slug": "faq"}}]
